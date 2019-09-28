@@ -1,0 +1,85 @@
+.navbar {
+    background: rgb(255, 253, 253);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+}
+
+.navbar .navbar-brand img{
+    position: absolute;
+    width: 150px;
+    height: 106px;
+    left: 48px;
+    top: 0px;
+}
+
+.navbar .navbar-brand .text-icon {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    color: #000000;
+    position: absolute;
+    width: 555px;
+    height: 65px;
+    left: 214px;
+    top: 34px;
+}
+
+.navbar .form-inline .btn {
+    width: 190px;
+    height: 70px;
+    left: 1193px;
+    top: 19px;
+    background-color: #F3AC13;
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    color: #FFEFEF;
+    font-family: 'Open Sans';
+
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+    margin: auto;
+    width: 1160px;
+    height: 526px;
+    margin-top: 124px;
+    margin-bottom: 265px;
+  }
+
+.table-bordered .text-head {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.table-bordered .text-body {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.table-bordered .text-body .fa-trash-alt {
+    width: 50px;
+    height: 50px;
+    left: 1122px;
+    top: 351px;
+    color: red;
+}
+
+.table-bordered .text-body .fa-edit {
+    width: 45px;
+    height: 45px;
+    left: 1209px;
+    top: 355px;
+    color: aqua;
+}
