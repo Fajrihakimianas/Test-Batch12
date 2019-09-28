@@ -1,0 +1,48 @@
+{
+    "Name": "Fajri Hakimi Anas",
+    "Age": 23,
+    "Address": "Bandung",
+    "Hobbies": ["Coding", "Futsal", "Bulutangkis"],
+    "Is_married": false,
+    "List_school": [
+        {
+            "Name": "SDN 04 Padang Ganting",
+            "Year_in": 2002,
+            "Year_out": 2008,
+            "Major": null
+        },
+        {
+            "Name": "SMPN 05 Padang Panjang",
+            "Year_in": 2008,
+            "Year_out": 2011,
+            "Major": null
+        },
+        {
+            "Name": "SMAN 2 Padang Panjang",
+            "Year_in": 2011,
+            "Year_out": 2014,
+            "Major": "IPA"
+        },
+        {
+            "Name": "Universitas Telkom",
+            "Year_in": 2014,
+            "Year_out": 2019,
+            "Major": "Teknik Elektro"
+        }
+    ],
+    "Skills": [
+        {
+            "Skill_name": "HTML",
+            "Level": "Beginner"
+        },
+        {
+            "Skill_name": "CSS",
+            "Level": "Beginner"
+        },
+        {
+            "Skill_name": "Javascript",
+            "Level": "Beginner"
+        }
+    ],
+    "Interest_in_coding": true
+}
